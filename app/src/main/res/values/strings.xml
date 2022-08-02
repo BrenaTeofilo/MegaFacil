@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MegaFacil</string>
+    <string name="goodLuck">Boa Sorte</string>
+    <string name="textHint">Digite um numero entre 6 e 15</string>
+    <string name="txtResult">result</string>
+    <string name="txtResultTools">Result</string>
+    <string name="btnRoll">Rodar</string>
+</resources>
