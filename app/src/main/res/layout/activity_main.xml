@@ -12,7 +12,7 @@
         style="@style/txtSena"
         android:text="@string/goodLuck"
         android:textColor="@color/blue_green"
-        android:textSize="40sp"
+        android:textSize="50sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -20,14 +20,14 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginTop="10dp"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="20dp"
         app:layout_constraintBottom_toTopOf="@id/editNumber"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/txtGoodLuck"
-        app:srcCompat="@drawable/image_mega_facil" />
+        app:srcCompat="@drawable/logo_mega"/>
 
     <EditText
         android:id="@+id/editNumber"
