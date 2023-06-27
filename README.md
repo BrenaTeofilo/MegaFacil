@@ -1,5 +1,4 @@
 # MegaFacil
-App feito junto com curso android Express e modificado design por mim.
 ![Screenshot-20220819-083322-Mega-Facil (1) (1)](https://user-images.githubusercontent.com/93918837/193946265-de78b8a5-8576-4f42-ac71-42c60001c307.jpg)
 
 ### Qual a ideia do app?
