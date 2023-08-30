@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MegaFacil</string>
-    <string name="goodLuck">Boa Sorte</string>
-    <string name="textHint">Digite um numero entre 6 e 15</string>
+    <string name="app_name">MegaEasy</string>
+    <string name="goodLuck">Good Luck</string>
+    <string name="textHint">Enter a number between 6 and 15</string>
     <string name="txtResult">result</string>
     <string name="txtResultTools">Result</string>
-    <string name="btnRoll">Rodar</string>
+    <string name="btnRoll">rotate</string>
 </resources>
