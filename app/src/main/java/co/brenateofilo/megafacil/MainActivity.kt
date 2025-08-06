@@ -22,7 +22,6 @@ class MainActivity : AppCompatActivity() {
         val btnRoll: Button = findViewById(R.id.btnSend)
 
         prefs = getSharedPreferences("db", MODE_PRIVATE)
-        //estudar um pouco mais a logica do if e a substituiçao
         val result = prefs.getString("result", null)
 //        if (result != null) {
 //            txtResult.text = "Ultima Aposta: $result"
@@ -63,7 +62,6 @@ class MainActivity : AppCompatActivity() {
                 break
             }
         }
-      //separador com(parenteses) nao com {chaves}
         txtResult.text = numbers.joinToString (" - " )
 
 //        val editor = prefs.edit()
